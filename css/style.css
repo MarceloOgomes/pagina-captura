@@ -20,3 +20,12 @@ header{
     font-size: 26px;
     text-transform: uppercase;
 }
+section{
+    color: white;
+}
+section h2{
+    text-transform: uppercase;
+}
+section p{
+text-align: justify;
+}
